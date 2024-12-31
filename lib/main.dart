@@ -250,9 +250,9 @@ class DokmeBerozresani extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var size = MediaQuery.of(context).size;
-    double bodyMargin = size.width / 12;
+
     return Padding(
-        padding: EdgeInsets.fromLTRB(0, 8, 0, 0),
+        padding: const EdgeInsets.fromLTRB(0, 8, 0, 0),
         child: Container(
           width: double.infinity,
           height: size.height / 17,
