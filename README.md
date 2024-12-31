@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Here are some screenshots of the project:
 
-![Screenshot 1](assets/screenshots/Screenshot_1735639516.png)
+![Screenshot 1](assets/images/Screenshot1.png)
